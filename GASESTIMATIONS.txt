@@ -1,0 +1,30 @@
+buyTokens Estimate
+76504
+
+totalTokens Estimate
+24301
+
+price Estimate
+22272
+
+started Estimate
+21824
+
+ended Estimate
+21733
+
+preICOPrivateSale Estimate
+933782
+
+preICOCompanyReserve Estimate
+653173
+
+preICOCashBack Estimate
+653306
+
+getMyTTLType1 Estimate
+22141
+
+TOKEN balanceOf Estimate
+23462
+

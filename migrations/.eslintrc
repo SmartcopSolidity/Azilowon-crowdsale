@@ -1,0 +1,8 @@
+{
+  "globals": {
+    "artifacts": true,
+    "web3": true
+  }, "env" : {
+    "node": true
+  }
+}

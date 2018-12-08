@@ -1,0 +1,16 @@
+{
+  "extends": "standard",
+  "globals": {
+    "artifacts": true,
+    "web3": true,
+    "contract": true,
+    "assert": true
+  },
+  "env": {
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "no-unused-expressions": "off"
+  }
+}
